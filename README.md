@@ -27,6 +27,10 @@ Client Java basé sur Spring Boot et Spring AI. Il gère l’interaction utilisa
 - API REST via `AIRestController`
 - Découverte automatique des outils MCP
 
+
+<img width="317" height="54" alt="4" src="https://github.com/user-attachments/assets/dbb81ee6-2953-4939-96ad-7e7b2dc1ee32" />
+<img width="314" height="361" alt="3" src="https://github.com/user-attachments/assets/b473856e-e81e-4e3e-b6cb-a9b714e903ae" />
+<img width="376" height="416" alt="2" src="https://github.com/user-attachments/assets/be37eb99-416a-4b93-b369-c42afe37b482" />
 ---
 
 ### 🔹 `mcp-server` (Serveur MCP Java)
@@ -106,9 +110,6 @@ Serveur Python simple exposant des outils via MCP et communiquant par STDIO avec
 
 ---
 
-<img width="317" height="54" alt="4" src="https://github.com/user-attachments/assets/dbb81ee6-2953-4939-96ad-7e7b2dc1ee32" />
-<img width="314" height="361" alt="3" src="https://github.com/user-attachments/assets/b473856e-e81e-4e3e-b6cb-a9b714e903ae" />
-<img width="376" height="416" alt="2" src="https://github.com/user-attachments/assets/be37eb99-416a-4b93-b369-c42afe37b482" />
 <img width="377" height="379" alt="1" src="https://github.com/user-attachments/assets/7b9e4248-ae3b-4420-afe5-9c595e864a27" />
 <img width="773" height="530" alt="9" src="https://github.com/user-attachments/assets/d050a87a-26e7-44bd-9c45-540fbed861a4" />
 <img width="771" height="300" alt="15" src="https://github.com/user-attachments/assets/71e15bb8-d6a1-4838-a30d-ebc136f9c517" />
