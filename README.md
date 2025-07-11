@@ -17,6 +17,8 @@ Ce projet vise à construire un chatbot intelligent de nouvelle génération, ca
 
 Le projet `mcp-demo-spring-python` est organisé en trois modules principaux :
 
+<img width="377" height="379" alt="1" src="https://github.com/user-attachments/assets/7b9e4248-ae3b-4420-afe5-9c595e864a27" />
+
 ### 🔹 `mcp-client` (Client Spring AI)
 
 Client Java basé sur Spring Boot et Spring AI. Il gère l’interaction utilisateur, conserve le contexte de conversation et invoque dynamiquement les outils exposés via les serveurs MCP.
@@ -111,7 +113,6 @@ Serveur Python simple exposant des outils via MCP et communiquant par STDIO avec
 
 ---
 
-<img width="377" height="379" alt="1" src="https://github.com/user-attachments/assets/7b9e4248-ae3b-4420-afe5-9c595e864a27" />
 <img width="773" height="530" alt="9" src="https://github.com/user-attachments/assets/d050a87a-26e7-44bd-9c45-540fbed861a4" />
 <img width="771" height="300" alt="15" src="https://github.com/user-attachments/assets/71e15bb8-d6a1-4838-a30d-ebc136f9c517" />
 <img width="770" height="446" alt="14" src="https://github.com/user-attachments/assets/0269eebe-0f8f-4b7e-a6cf-78814a055f26" />
