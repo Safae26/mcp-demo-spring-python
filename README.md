@@ -55,6 +55,8 @@ Serveur Python simple exposant des outils via MCP et communiquant par STDIO avec
 - Communication via STDIO
 - Intégration via fichier `mcp-servers.json`
 
+
+<img width="317" height="54" alt="4" src="https://github.com/user-attachments/assets/dbb81ee6-2953-4939-96ad-7e7b2dc1ee32" />
 ---
 
 ## ⚙️ Technologies et Protocoles
