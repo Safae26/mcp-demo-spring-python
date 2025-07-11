@@ -105,5 +105,3 @@ Serveur Python simple exposant des outils via MCP et communiquant par STDIO avec
 ## ✅ Conclusion
 
 Ce projet démontre la mise en œuvre d’un système intelligent interopérable entre plusieurs langages et plateformes grâce au protocole MCP. Il constitue une base solide pour le développement d’agents distribués, intelligents et modulaires.
-
-
