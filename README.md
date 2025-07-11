@@ -94,6 +94,7 @@ Serveur Python simple exposant des outils via MCP et communiquant par STDIO avec
 - **`server.py`** : expose un outil métier via FastMCP.
 - **Mode STDIO** : communication directe avec le client Spring AI.
 
+<img width="771" height="300" alt="15" src="https://github.com/user-attachments/assets/71e15bb8-d6a1-4838-a30d-ebc136f9c517" />
 ---
 
 ## 🧪 Test avec Postman
@@ -114,7 +115,6 @@ Serveur Python simple exposant des outils via MCP et communiquant par STDIO avec
 ---
 
 <img width="773" height="530" alt="9" src="https://github.com/user-attachments/assets/d050a87a-26e7-44bd-9c45-540fbed861a4" />
-<img width="771" height="300" alt="15" src="https://github.com/user-attachments/assets/71e15bb8-d6a1-4838-a30d-ebc136f9c517" />
 <img width="770" height="446" alt="14" src="https://github.com/user-attachments/assets/0269eebe-0f8f-4b7e-a6cf-78814a055f26" />
 <img width="769" height="171" alt="13" src="https://github.com/user-attachments/assets/7925e86e-5979-42e9-a5c7-2abd8dfe973f" />
 <img width="773" height="348" alt="12" src="https://github.com/user-attachments/assets/a2842b5f-fa43-403b-a5bf-a8a2b5dc4d6c" />
