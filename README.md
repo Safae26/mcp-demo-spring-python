@@ -88,6 +88,13 @@ Serveur Python simple exposant des outils via MCP et communiquant par STDIO avec
 - **`application.properties`** : configuration du client et des LLMs.
 - **`mcp-servers.json`** : gestion des serveurs NodeJS et Python déclenchés par ligne de commande.
 
+<img width="773" height="530" alt="9" src="https://github.com/user-attachments/assets/d050a87a-26e7-44bd-9c45-540fbed861a4" />
+<img width="770" height="446" alt="14" src="https://github.com/user-attachments/assets/0269eebe-0f8f-4b7e-a6cf-78814a055f26" />
+<img width="769" height="171" alt="13" src="https://github.com/user-attachments/assets/7925e86e-5979-42e9-a5c7-2abd8dfe973f" />
+<img width="773" height="348" alt="12" src="https://github.com/user-attachments/assets/a2842b5f-fa43-403b-a5bf-a8a2b5dc4d6c" />
+<img width="773" height="378" alt="11" src="https://github.com/user-attachments/assets/b48a0c30-fca1-446f-96d4-eb2f91bddb19" />
+<img width="770" height="296" alt="10" src="https://github.com/user-attachments/assets/7e69c1db-09ef-4607-b972-57e3671cc7a6" />
+
 ---
 
 ### 📁 `python-mcp-server`
@@ -113,13 +120,6 @@ Serveur Python simple exposant des outils via MCP et communiquant par STDIO avec
 - Hypothèse : contraintes matérielles ou environnementales
 
 ---
-
-<img width="773" height="530" alt="9" src="https://github.com/user-attachments/assets/d050a87a-26e7-44bd-9c45-540fbed861a4" />
-<img width="770" height="446" alt="14" src="https://github.com/user-attachments/assets/0269eebe-0f8f-4b7e-a6cf-78814a055f26" />
-<img width="769" height="171" alt="13" src="https://github.com/user-attachments/assets/7925e86e-5979-42e9-a5c7-2abd8dfe973f" />
-<img width="773" height="348" alt="12" src="https://github.com/user-attachments/assets/a2842b5f-fa43-403b-a5bf-a8a2b5dc4d6c" />
-<img width="773" height="378" alt="11" src="https://github.com/user-attachments/assets/b48a0c30-fca1-446f-96d4-eb2f91bddb19" />
-<img width="770" height="296" alt="10" src="https://github.com/user-attachments/assets/7e69c1db-09ef-4607-b972-57e3671cc7a6" />
 
 
 ## ✅ Conclusion
