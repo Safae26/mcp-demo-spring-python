@@ -102,6 +102,22 @@ Serveur Python simple exposant des outils via MCP et communiquant par STDIO avec
 
 ---
 
+<img width="771" height="202" alt="8" src="https://github.com/user-attachments/assets/19b9d311-49fd-4178-ad9c-fe68e9d5416c" />
+<img width="773" height="380" alt="7" src="https://github.com/user-attachments/assets/12a972e4-dce1-481e-b7e2-2bb27ed0449b" />
+<img width="774" height="173" alt="6" src="https://github.com/user-attachments/assets/08963e96-72d5-4d71-87eb-f714012dad82" />
+<img width="317" height="54" alt="4" src="https://github.com/user-attachments/assets/dbb81ee6-2953-4939-96ad-7e7b2dc1ee32" />
+<img width="314" height="361" alt="3" src="https://github.com/user-attachments/assets/b473856e-e81e-4e3e-b6cb-a9b714e903ae" />
+<img width="376" height="416" alt="2" src="https://github.com/user-attachments/assets/be37eb99-416a-4b93-b369-c42afe37b482" />
+<img width="377" height="379" alt="1" src="https://github.com/user-attachments/assets/7b9e4248-ae3b-4420-afe5-9c595e864a27" />
+<img width="773" height="530" alt="9" src="https://github.com/user-attachments/assets/d050a87a-26e7-44bd-9c45-540fbed861a4" />
+<img width="771" height="300" alt="15" src="https://github.com/user-attachments/assets/71e15bb8-d6a1-4838-a30d-ebc136f9c517" />
+<img width="770" height="446" alt="14" src="https://github.com/user-attachments/assets/0269eebe-0f8f-4b7e-a6cf-78814a055f26" />
+<img width="769" height="171" alt="13" src="https://github.com/user-attachments/assets/7925e86e-5979-42e9-a5c7-2abd8dfe973f" />
+<img width="773" height="348" alt="12" src="https://github.com/user-attachments/assets/a2842b5f-fa43-403b-a5bf-a8a2b5dc4d6c" />
+<img width="773" height="378" alt="11" src="https://github.com/user-attachments/assets/b48a0c30-fca1-446f-96d4-eb2f91bddb19" />
+<img width="770" height="296" alt="10" src="https://github.com/user-attachments/assets/7e69c1db-09ef-4607-b972-57e3671cc7a6" />
+
+
 ## ✅ Conclusion
 
 Ce projet démontre la mise en œuvre d’un système intelligent interopérable entre plusieurs langages et plateformes grâce au protocole MCP. Il constitue une base solide pour le développement d’agents distribués, intelligents et modulaires.
