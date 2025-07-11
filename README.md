@@ -26,7 +26,7 @@ Client Java basé sur Spring Boot et Spring AI. Il gère l’interaction utilisa
 - Mémoire de conversation avec fenêtre glissante
 - API REST via `AIRestController`
 - Découverte automatique des outils MCP
-- 
+  
 <img width="376" height="416" alt="2" src="https://github.com/user-attachments/assets/be37eb99-416a-4b93-b369-c42afe37b482" />
 ---
 
@@ -39,6 +39,8 @@ Serveur Java Spring Boot exposant des outils métiers via MCP. Il prend en charg
 - Communication SSE avec clients
 - Intégration dynamique avec Spring AI
 
+
+<img width="314" height="361" alt="3" src="https://github.com/user-attachments/assets/b473856e-e81e-4e3e-b6cb-a9b714e903ae" />
 
 <img width="771" height="202" alt="8" src="https://github.com/user-attachments/assets/19b9d311-49fd-4178-ad9c-fe68e9d5416c" />
 <img width="773" height="380" alt="7" src="https://github.com/user-attachments/assets/12a972e4-dce1-481e-b7e2-2bb27ed0449b" />
